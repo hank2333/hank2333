@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**hank2333/hank2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# *你好* *💚*
+### 刘雨赫，二旬老人，水985大二计算机学生
++ 小猫Momo铲屎官
++ 陈朱菲尔小姐的量子缠绕体
++ 重度游戏爱好者
++ 时间管理大师/上课神秘划水男
++ 严重精神内耗患者
+## 计划
++ 大一已经荒废了
++ 大二上完成c++学习，搞下算法
++ 大二下尝试接触游戏制作/ai/单片机反正没想好，什么感兴趣做什么
++ 大三做项目，什么感兴趣做什么
++ 大四什么感兴趣做什么
++ 哦差点忘了我还想做一个自己的网站，炫酷的
+## 爱干嘛干嘛 👽
+新时代需要ai进行机械飞升，第三只手这一块
+## 想写点有深度的话但是完全不知道说啥
+## 落后了很多所以不能放弃努力！
