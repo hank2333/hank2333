@@ -19,5 +19,5 @@
 ## 想写点有深度的话但是完全不知道说啥
 ## 落后了很多所以不能放弃努力！
 
-### 点个赞吧 ❤️
-<iframe src="https://likes.2472006336.workers.dev/" width="300" height="180"> </iframe>
+![Likes](https://likes.2472006336.workers.dev/api/badge)
+
