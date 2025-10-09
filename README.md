@@ -19,6 +19,7 @@
 ## 想写点有深度的话但是完全不知道说啥
 ## 落后了很多所以不能放弃努力！
 
+部署了一个点赞网站给你们玩： https://likes.2472006336.workers.dev/
 ![Likes](https://img.shields.io/endpoint?url=https://likes.2472006336.workers.dev/api/badge)
 
 
