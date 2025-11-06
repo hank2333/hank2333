@@ -14,6 +14,7 @@
 + 哦差点忘了我还想做一个自己的网站，炫酷的
 ## 我干过什么
 + 参与了Uniwin International公司网站设计与维护
++ Uniwin International接线员与商业联络端部署
 ## 爱干嘛干嘛 👽
 
 部署了一个点赞网站给你们玩： https://likes.2472006336.workers.dev/
