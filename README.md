@@ -10,6 +10,12 @@
 ## 我干过什么
 + 参与了Uniwin International公司网站设计与维护
 + Uniwin International接线员与商业联络端部署
++ Uniwin International广告优化
 + XMUM RSA人员
 ## 目前
 + 正在进行大模型结合强化学习在网络攻防环境中的应用的研究
++ ai agent以及大模型应用开发
+
+[![](https://img.shields.io/badge/cpp-C++-green.svg)]()
+[![](https://img.shields.io/badge/mt-matlab-red.svg)]()
+[![](https://img.shields.io/badge/py-python-blue.svg)]()
