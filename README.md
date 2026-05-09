@@ -15,6 +15,7 @@
 ## 目前
 + 正在进行大模型结合强化学习在网络攻防环境中的应用的研究
 + ai agent以及大模型应用开发
++ CLI 开发
 
 [![](https://img.shields.io/badge/cpp-C++-green.svg)]()
 [![](https://img.shields.io/badge/mt-matlab-red.svg)]()
